@@ -286,7 +286,7 @@ CustomRightFooter_HTML = '';
 // a) TopUserLogo item has 3 attributes: name, URL, maximum height.
 //    Those images can be selected by user in Layout Configuration panel, and will be displayed on the channel top.
 
-ChannelThemeURL = 'https://raw.githubusercontent.com/seacra/test/main/KFriends1';
+ChannelThemeURL = 'https://github.com/seacra/test/blob/main/KFriends1.css';
 
 ThemesCSS = [
 ['Plus Red', 'https://dl.dropboxusercontent.com/s/th8i1sj332wi0x9/plusred.css'],
