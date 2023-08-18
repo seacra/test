@@ -1,0 +1,6 @@
+body {
+	background-image:url("https://gcdnb.pbrd.co/images/1FCxW9FkDEJe.jpg?o=1");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
